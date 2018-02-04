@@ -1,0 +1,7 @@
+settings.py
+__pycache__
+*.pyc
+tmp
+temp
+node_modules
+*.tmp
